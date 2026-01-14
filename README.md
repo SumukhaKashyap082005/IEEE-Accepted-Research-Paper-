@@ -69,7 +69,7 @@ These results validate the feasibility of quantum-inspired security mechanisms w
 
 
 
-## 🌍 Applications
+##  Applications
 - **Enterprise & Industrial Systems:**  
   IT, Telecom, Manufacturing, Healthcare, Government Data Centers
 
@@ -83,7 +83,7 @@ The system is particularly relevant where data leaks can impact environmental su
 ##  Paper Access
 The full paper is available in this repository as a PDF:
 
-📘 *Simulated Quantum Entangled Firewall for Preventing Insider Data Leakage*  
+ *Simulated Quantum Entangled Firewall for Preventing Insider Data Leakage*  
 (See uploaded PDF) 
 
 
