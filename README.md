@@ -7,21 +7,21 @@ The work focuses on preventing unauthorized data exfiltration—particularly via
 
 
 
-##  Publication & Presentation
-Status: Accepted for Oral Presentation
+## Publication & Presentation
+**Status:** Accepted for **Oral Presentation**
 
-Conference:  
-IEEE Sponsored 3rd International Conference on Advancements and Key Challenges in Green Energy and Computing (AKGEC 2026)
+**Conference:**  
+IEEE Sponsored **3rd International Conference on Advancements and Key Challenges in Green Energy and Computing (AKGEC 2026)**
 
-Venue: 
+**Venue:**  
 Ajay Kumar Garg Engineering College, Ghaziabad, India
 
-Dates:
- 26th February – 28th February 2026
+**Dates:**  
+**26th February – 28th February 2026**
 
 
 
-##  Abstract (Brief)
+##  Abstract 
 Insider data leakage remains a significant cybersecurity challenge that traditional firewalls struggle to detect. This paper presents a multi-layered firewall system that simulates quantum entanglement for email recipient verification, combined with endpoint activity monitoring and WhatsApp-based administrative approval.
 
 Using Qiskit-based two-qubit quantum circuit simulations, the system generates deterministic entangled amplitude fingerprints derived from cryptographic hashes. Any deviation in sender–receiver identity results in immediate blocking. Additional safeguards include USB detection, screen capture monitoring, clipboard tracking, and cloud folder surveillance.
@@ -31,19 +31,19 @@ The proposed approach demonstrates strong spoof-resistance, deterministic verifi
 
 
 ##  System Highlights
-- Simulated Quantum Entanglement: 
+- **Simulated Quantum Entanglement:**  
   Deterministic identity fingerprints using two-qubit entangled states with parameterized RY rotations.
 
-- Cryptographic Security: 
+- **Cryptographic Security:**  
   SHA-512 hashing and Fernet encryption ensure collision resistance and secure storage.
 
-- Endpoint Monitoring: 
+- **Endpoint Monitoring:**  
   Real-time detection of USB insertion, screenshot tools, clipboard usage, and cloud folder access.
 
-- Human-in-the-loop Approval:  
+- **Human-in-the-loop Approval:**  
   WhatsApp-based supervisory approval before sensitive data transmission.
 
-- Zero Trust Architecture:  
+- **Zero Trust Architecture:**  
   No user or process is trusted implicitly; every action is validated.
 
 
@@ -60,7 +60,7 @@ The proposed approach demonstrates strong spoof-resistance, deterministic verifi
 
 
 ##  Key Results
-- Mean Time to Detect (MTTD): 100–200 microseconds
+- Mean Time to Detect (MTTD): **100–200 microseconds**
 - Strong spoof-resistance even for single-character email changes
 - Deterministic, recipient-specific verification
 - Near-zero collision probability for identity fingerprints
@@ -69,7 +69,7 @@ These results validate the feasibility of quantum-inspired security mechanisms w
 
 
 
-##  Applications
+## 🌍 Applications
 - **Enterprise & Industrial Systems:**  
   IT, Telecom, Manufacturing, Healthcare, Government Data Centers
 
@@ -83,12 +83,12 @@ The system is particularly relevant where data leaks can impact environmental su
 ##  Paper Access
 The full paper is available in this repository as a PDF:
 
- *Simulated Quantum Entangled Firewall for Preventing Insider Data Leakage*  
+📘 *Simulated Quantum Entangled Firewall for Preventing Insider Data Leakage*  
 (See uploaded PDF) 
 
 
 
-##  Future Work
+## Future Work
 - Extension to messaging platforms such as Slack, Telegram, and WhatsApp
 - Webcam-based detection of physical data leakage
 - Dynamic UI for managing entangled identities
